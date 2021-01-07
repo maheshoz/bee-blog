@@ -1,5 +1,5 @@
 ---
-title: Android 1 -intro - setup  
+title: Android 1 
 date: 2020-12-24 21:20:19
 category: android
 thumbnail: { thumbnailSrc }
